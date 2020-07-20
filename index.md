@@ -10,7 +10,9 @@ Here is a picture of me.
 
 ![rhinoceros](Rhinoceros_unicornis.jpg)
 
+
 JK! That's just an image I found on the internet! I'm really a boy with access to a computer and an obsession with rhinoceroses.
+
 
 Did you know that there are [5 types of rhinoceros](https://en.wikipedia.org/wiki/Rhinoceros)?
 1.	White rhinoceros
